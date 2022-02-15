@@ -1,5 +1,0 @@
-Credentials cache: API:51BEEBE4-6BE1-414B-8047-6EC42FA1EC56
-        Principal: dohakim@42SEOUL.KR
-
-  Issued                Expires               Principal
-Jan  5 09:26:39 2022  Jan  5 19:26:39 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
